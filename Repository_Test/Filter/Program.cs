@@ -10,6 +10,12 @@ namespace Filter
     {
         static void Main(string[] args)
         {
+
+            string line;
+            while((line = Console.ReadLine()) != null)
+            {
+
+            }
         }
     }
 }
